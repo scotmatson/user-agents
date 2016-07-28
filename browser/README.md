@@ -1,4 +1,4 @@
-#user-agents/browsers
+#user-agents/browser
 
 A collection of browser user-agents
 

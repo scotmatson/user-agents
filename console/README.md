@@ -1,4 +1,4 @@
-#user-agents/consoles
+#user-agents/console
 
 A collection of console user-agents
 

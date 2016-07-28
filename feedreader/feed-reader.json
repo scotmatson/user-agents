@@ -1,0 +1,46 @@
+{
+    "UniversalFeedParser": {
+        "UniversalFeedParser 3.3": [
+            "UniversalFeedParser/3.3 +http://feedparser.org/"
+        ]
+    },
+    "GreatNews": {
+        "GreatNews 1.0": [
+            "GreatNews/1.0"
+        ]
+    },
+    "Gregarius": {
+        "Gregarius 0.5.2": [
+            "Gregarius/0.5.2 (+http://devlog.gregarius.net/docs/ua)"
+        ]
+    },
+    "everyfeed-spider": {
+        "everyfeed-spider 2.0": [
+            "everyfeed-spider/2.0 (http://www.everyfeed.com)"
+        ]
+    },
+    "NFReader": {
+        "NFReader 1.4.1.0": [
+            "NFReader/1.4.1.0 (http://www.gaijin.at/)"
+        ]
+    },
+    "FeedFetcher-Google": {
+        "FeedFetcher-Google ": [
+            "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=8639390370582375869)",
+            "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=375807642710480585)",
+            "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=1992026586303346733)",
+            "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=13645798864011762265)",
+            "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
+        ]
+    },
+    "Bloglines": {
+        "Bloglines 3.0-rho": [
+            "Bloglines/3.0-rho (http://www.bloglines.com; 3 subscribers)"
+        ]
+    },
+    "MagpieRSS": {
+        "MagpieRSS 0.7": [
+            "MagpieRSS/0.7 ( http://magpierss.sf.net)"
+        ]
+    }
+}

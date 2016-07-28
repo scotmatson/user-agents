@@ -1,0 +1,47 @@
+{
+    "Microsoft URL Control": {
+        "Microsoft URL Control 6.01.9782": [
+            "Microsoft URL Control - 6.01.9782"
+        ]
+    },
+    "PHP": {
+        "PHP 5.2.10": [
+            "PHP/5.2.10"
+        ]
+    },
+    "Peach": {
+        "Peach 1.01": [
+            "Peach/1.01 (Ubuntu 8.04 LTS; U; en)"
+        ]
+    },
+    "BinGet": {
+        "BinGet 1.00.A": [
+            "BinGet/1.00.A (http://www.bin-co.com/php/scripts/load/)"
+        ]
+    },
+    "Java": {
+        "Java 1.2.1": [
+            "Java1.2.1"
+        ]
+    },
+    "Python-urllib": {
+        "Python-urllib 1.15": [
+            "Python-urllib/1.15"
+        ]
+    },
+    "pxyscand": {
+        "pxyscand 2.1": [
+            "pxyscand/2.1"
+        ]
+    },
+    "libwww-perl": {
+        "libwww-perl 5.36": [
+            "libwww-perl/5.36"
+        ]
+    },
+    "cURL": {
+        "cURL 7.10.6": [
+            "curl/7.10.6 (i386-redhat-linux-gnu) libcurl/7.10.6 OpenSSL/0.9.7a ipv6 zlib/1.1.4"
+        ]
+    }
+}
