@@ -1,6 +1,6 @@
-#user-agents/browsers
+#user-agents/email
 
-A collection of browser user-agents
+A collection of email user-agents
 
 ##Attributions
 * http://www.useragentstring.com/pages/useragentstring.php?typ=E-mail%20Client

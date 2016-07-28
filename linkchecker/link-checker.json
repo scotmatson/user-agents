@@ -1,0 +1,78 @@
+{
+    "Vivante Link Checker": {
+        "Vivante Link Checker ": [
+            "Vivante Link Checker (http://www.vivante.com)"
+        ]
+    },
+    "Xenu Link Sleuth": {
+        "Xenu Link Sleuth ": [
+            "Xenu Link Sleuth/1.3.7"
+        ]
+    },
+    "REL Link Checker Lite": {
+        "REL Link Checker Lite 1.0": [
+            "REL Link Checker Lite 1.0"
+        ]
+    },
+    "W3C-checklink": {
+        "W3C-checklink 2.90": [
+            "W3C-checklink/2.90 libwww-perl/5.64"
+        ]
+    },
+    "SiteBar": {
+        "SiteBar 3.3.5": [
+            "SiteBar/3.3.5 (Bookmark Server; http://sitebar.org/)"
+        ]
+    },
+    "Reciprocal Link System PRO": {
+        "Reciprocal Link System PRO ": [
+            "InfoWizards Reciprocal Link System PRO - (http://www.infowizards.com)"
+        ]
+    },
+    "Mojoo Robot": {
+        "Mojoo Robot ": [
+            "Mojoo Robot (http://www.mojoo.com/)"
+        ]
+    },
+    "online link validator": {
+        "online link validator ": [
+            "online link validator (http://www.dead-links.com/)"
+        ]
+    },
+    "Notifixious": {
+        "Notifixious ": [
+            "Notifixious/LinkChecker (http://notifixio.us)"
+        ]
+    },
+    "LinksManager.com_bot": {
+        "LinksManager.com_bot ": [
+            "Mozilla/5.0 (compatible; LinksManager.com_bot +http://linksmanager.com/linkchecker.html)"
+        ]
+    },
+    "LinkExaminer": {
+        "LinkExaminer 1.01": [
+            "LinkExaminer/1.01 (Windows)"
+        ]
+    },
+    "Link Valet": {
+        "Link Valet 1.1": [
+            "Link Valet Online 1.1"
+        ]
+    },
+    "Ploetz + Zeller": {
+        "Ploetz + Zeller 1.0": [
+            "Ploetz + Zeller (http://www.ploetz-zeller.de) Link Validator v1.0 (support@p-und-z.de) for ARIS Business Architect"
+        ]
+    },
+    "Link Validity Check": {
+        "Link Validity Check ": [
+            "Link Validity Check From: http://www.w3dir.com/cgi-bin (Using: Hot Links SQL by Mrcgiguy.com)"
+        ]
+    },
+    "AbiLogicBot": {
+        "AbiLogicBot 1.0": [
+            "Mozilla/5.0 (compatible; AbiLogicBot/1.0; +http://www.abilogic.com/bot.html)",
+            "Mozilla/5.0 (compatible; AbiLogicBot/1.0; +http://www.abilogic.com)"
+        ]
+    }
+}
