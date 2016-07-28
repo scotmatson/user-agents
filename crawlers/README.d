@@ -1,4 +1,4 @@
-#user-agents/browsers
+#user-agents/crawlers
 
 A collection of crawler user-agents
 
