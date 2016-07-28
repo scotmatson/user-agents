@@ -1,0 +1,35 @@
+{
+    "Wget": {
+        "Wget ": [
+            "wget"
+        ]
+    },
+    "null": {
+        "null": []
+    },
+    "Web Downloader": {
+        "Web Downloader 4.5": [
+            "Web Downloader/4.5"
+        ]
+    },
+    "Offline Explorer": {
+        "Offline Explorer 1.4": [
+            "Offline Explorer/1.4"
+        ]
+    },
+    "WebCopier": {
+        "WebCopier 2.8": [
+            "WebCopier v2.8"
+        ]
+    },
+    "SuperBot": {
+        "SuperBot 4.4.0.60": [
+            "SuperBot/4.4.0.60 (Windows XP)"
+        ]
+    },
+    "WebZIP": {
+        "WebZIP 3.5": [
+            "WebZIP/3.5 (http://www.spidersoft.com)"
+        ]
+    }
+}
