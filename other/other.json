@@ -1,68 +1,296 @@
 {
-    "GSiteCrawler": {
-        "GSiteCrawler 1.06": [
-            "GSiteCrawler/v1.06 rev. 251 (http://gsitecrawler.com/)"
-        ]
-    },
-    "Nitro PDF": {
-        "Nitro PDF ": [
-            "Nitro PDF Download"
-        ]
-    },
-    "MetaURI": {
-        "MetaURI ": [
-            "MetaURI API/2.0  metauri.com"
-        ]
-    },
-    "Cocoal.icio.us": {
-        "Cocoal.icio.us 1.0v38": [
-            "Cocoal.icio.us/1.0 (v38) (Mac OS X; http://www.scifihifi.com/cocoalicious)"
-        ]
-    },
-    "!Susie": {
-        "!Susie ": [
-            "!Susie (http://www.sync2it.com/susie)"
-        ]
-    },
-    "DomainsDB.net MetaCrawler": {
-        "DomainsDB.net MetaCrawler 0.9.7c": [
-            "DomainsDB.net MetaCrawler v.0.9.7c (http://domainsdb.net/)"
-        ]
-    },
-    "Windows-Media-Player": {
-        "Windows-Media-Player 9.00.00.3250": [
-            "Windows-Media-Player/9.00.00.3250"
-        ]
-    },
-    "URD-MAGPIE": {
-        "URD-MAGPIE 0.73": [
-            "URD-MAGPIE/0.73 (Cached)"
-        ]
-    },
-    "Amaya": {
-        "Amaya 5.4.0": [
-            "amaya/11.2 amaya/5.4.0",
-            "amaya/11.1 amaya/5.4.0"
-        ]
-    },
-    "Snoopy": {
-        "Snoopy 1.2": [
-            "Snoopy v1.2"
-        ]
-    },
-    "WebCapture": {
-        "WebCapture 1.0": [
-            "Mozilla/3.0 (compatible; WebCapture 1.0; Windows)"
-        ]
-    },
-    "iTunes": {
-        "iTunes 4.0": [
-            "iTunes/4.0 (Macintosh; U; PPC Mac OS X 10.2)"
-        ]
-    },
-    "lftp": {
-        "lftp 4.3.5": [
-            "lftp/4.3.5"
-        ]
-    }
+    "MetaURI": [
+        {
+            "MetaURI ": [
+                "MetaURI API/2.0  metauri.com"
+            ]
+        }
+    ],
+    "URD-MAGPIE": [
+        {
+            "URD-MAGPIE 0.73": [
+                "URD-MAGPIE/0.73 (Cached)"
+            ]
+        }
+    ],
+    "Nitro PDF": [
+        {
+            "Nitro PDF ": [
+                "Nitro PDF Download"
+            ]
+        }
+    ],
+    "DomainsDB.net MetaCrawler": [
+        {
+            "DomainsDB.net MetaCrawler 0.9.7c": [
+                "DomainsDB.net MetaCrawler v.0.9.7c (http://domainsdb.net/)"
+            ]
+        }
+    ],
+    "!Susie": [
+        {
+            "!Susie ": [
+                "!Susie (http://www.sync2it.com/susie)"
+            ]
+        }
+    ],
+    "GSiteCrawler": [
+        {
+            "GSiteCrawler 1.20": [
+                "GSiteCrawler/v1.20 rev. 273 (http://gsitecrawler.com/)"
+            ]
+        },
+        {
+            "GSiteCrawler 1.12": [
+                "GSiteCrawler/v1.12 rev. 260 (http://gsitecrawler.com/)"
+            ]
+        },
+        {
+            "GSiteCrawler 1.06": [
+                "GSiteCrawler/v1.06 rev. 251 (http://gsitecrawler.com/)"
+            ]
+        }
+    ],
+    "Cocoal.icio.us": [
+        {
+            "Cocoal.icio.us 1.0v43": [
+                "Cocoal.icio.us/1.0 (v43) (Mac OS X; http://www.scifihifi.com/cocoalicious)"
+            ]
+        },
+        {
+            "Cocoal.icio.us 1.0v40": [
+                "Cocoal.icio.us/1.0 (v40) (Mac OS X; http://www.scifihifi.com/cocoalicious)"
+            ]
+        },
+        {
+            "Cocoal.icio.us 1.0v38": [
+                "Cocoal.icio.us/1.0 (v38) (Mac OS X; http://www.scifihifi.com/cocoalicious)"
+            ]
+        }
+    ],
+    "Snoopy": [
+        {
+            "Snoopy 1.2": [
+                "Snoopy v1.2"
+            ]
+        }
+    ],
+    "Windows-Media-Player": [
+        {
+            "Windows-Media-Player 11.0.5721.5145": [
+                "Windows-Media-Player/11.0.5721.5145"
+            ]
+        },
+        {
+            "Windows-Media-Player 10.00.00.xxxx": [
+                "Windows-Media-Player/10.00.00.xxxx"
+            ]
+        },
+        {
+            "Windows-Media-Player 10.00.00.4036": [
+                "Windows-Media-Player/10.00.00.4036"
+            ]
+        },
+        {
+            "Windows-Media-Player 10.00.00.3646": [
+                "Windows-Media-Player/10.00.00.3646"
+            ]
+        },
+        {
+            "Windows-Media-Player 9.00.00.4503": [
+                "Windows-Media-Player/9.00.00.4503"
+            ]
+        },
+        {
+            "Windows-Media-Player 9.00.00.3250": [
+                "Windows-Media-Player/9.00.00.3250"
+            ]
+        }
+    ],
+    "WebCapture": [
+        {
+            "WebCapture 3.0": [
+                "Mozilla/4.0 (compatible; WebCapture 3.0; Windows)",
+                "Mozilla/4.0 (compatible; WebCapture 3.0; Macintosh)"
+            ]
+        },
+        {
+            "WebCapture 2.0": [
+                "Mozilla/3.0 (compatible; WebCapture 2.0; Windows)"
+            ]
+        },
+        {
+            "WebCapture 1.0": [
+                "Mozilla/3.0 (compatible; WebCapture 1.0; Windows)"
+            ]
+        }
+    ],
+    "iTunes": [
+        {
+            "iTunes 9.1.1": [
+                "iTunes/9.1.1"
+            ]
+        },
+        {
+            "iTunes 9.0.3": [
+                "iTunes/9.0.3 (Macintosh; U; Intel Mac OS X 10_6_2; en-ca)",
+                "iTunes/9.0.3"
+            ]
+        },
+        {
+            "iTunes 9.0.2": [
+                "iTunes/9.0.2 (Windows; N)",
+                "itunes/9.0.2 (Macintosh; Intel Mac OS X 10.4.11) AppleWebKit/531.21.8"
+            ]
+        },
+        {
+            "iTunes 9.0": [
+                "iTunes/9.0 (Macintosh; Intel Mac OS X 10.5.8) AppleWebKit/531.9",
+                "iTunes/9.0 (Macintosh; Intel Mac OS X 10.5.8)",
+                "iTunes/9.0"
+            ]
+        },
+        {
+            "iTunes 8.2": [
+                "iTunes/8.2 (Macintosh; U; PPC Mac OS X 10_5_6)"
+            ]
+        },
+        {
+            "iTunes 8.1.1": [
+                "iTunes/8.1.1 (Windows; U)",
+                "iTunes/8.1.1 (Windows; N)"
+            ]
+        },
+        {
+            "iTunes 8.1": [
+                "iTunes/8.1"
+            ]
+        },
+        {
+            "iTunes 8.0": [
+                "iTunes/8.0"
+            ]
+        },
+        {
+            "iTunes 7.6.2.9": [
+                "iTunes/7.6.2.9"
+            ]
+        },
+        {
+            "iTunes 7.5": [
+                "iTunes/7.5 (Macintosh; N; PPC)"
+            ]
+        },
+        {
+            "iTunes 7.4.1": [
+                "iTunes/7.4.1"
+            ]
+        },
+        {
+            "iTunes 7.1.1": [
+                "iTunes/7.1.1 (Macintosh; N; PPC)"
+            ]
+        },
+        {
+            "iTunes 7.0.1": [
+                "iTunes/7.0.1 (Windows; N)"
+            ]
+        },
+        {
+            "iTunes 7.0": [
+                "iTunes/7.0 (Macintosh; U; PPC Mac OS X 10.4.7)"
+            ]
+        },
+        {
+            "iTunes 4.8": [
+                "iTunes/4.8 (Macintosh; U; PPC Mac OS X 10.4.1)"
+            ]
+        },
+        {
+            "iTunes 4.7": [
+                "iTunes/4.7 (Macintosh; U; PPC Mac OS X 10.2)",
+                "iTunes/4.7 (Macintosh; N; PPC)"
+            ]
+        },
+        {
+            "iTunes 4.2": [
+                "iTunes/4.2 (Macintosh; U; PPC Mac OS X 10.2)"
+            ]
+        },
+        {
+            "iTunes 4.0": [
+                "iTunes/4.0 (Macintosh; U; PPC Mac OS X 10.2)"
+            ]
+        }
+    ],
+    "lftp": [
+        {
+            "lftp 4.3.8": [
+                "lftp/4.3.8"
+            ]
+        },
+        {
+            "lftp 4.3.5": [
+                "lftp/4.3.5"
+            ]
+        }
+    ],
+    "Amaya": [
+        {
+            "Amaya 11.3.1": [
+                "amaya/11.3.1 libwww/5.4.1"
+            ]
+        },
+        {
+            "Amaya 11.2": [
+                "amaya/11.2 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 11.1": [
+                "amaya/11.1 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 10.1": [
+                "amaya/10.1 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 10": [
+                "amaya/10 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 9.55": [
+                "amaya/9.55 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 9.54": [
+                "amaya/9.54 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 9.52": [
+                "amaya/9.52 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 9.51": [
+                "amaya/9.51 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 8.8.5": [
+                "amaya/8.8.5 libwww/5.4.0"
+            ]
+        },
+        {
+            "Amaya 5.4.0": [
+                "amaya/11.2 amaya/5.4.0",
+                "amaya/11.1 amaya/5.4.0"
+            ]
+        }
+    ]
 }

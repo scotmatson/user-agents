@@ -1,32 +1,172 @@
 {
-    "Wget": {
-        "Wget ": [
-            "wget"
-        ]
-    },
-    "Web Downloader": {
-        "Web Downloader 4.5": [
-            "Web Downloader/4.5"
-        ]
-    },
-    "Offline Explorer": {
-        "Offline Explorer 1.4": [
-            "Offline Explorer/1.4"
-        ]
-    },
-    "WebCopier": {
-        "WebCopier 2.8": [
-            "WebCopier v2.8"
-        ]
-    },
-    "SuperBot": {
-        "SuperBot 4.4.0.60": [
-            "SuperBot/4.4.0.60 (Windows XP)"
-        ]
-    },
-    "WebZIP": {
-        "WebZIP 3.5": [
-            "WebZIP/3.5 (http://www.spidersoft.com)"
-        ]
-    }
+    "SuperBot": [
+        {
+            "SuperBot 4.4.0.60": [
+                "SuperBot/4.4.0.60 (Windows XP)"
+            ]
+        }
+    ],
+    "WebCopier": [
+        {
+            "WebCopier 4.6": [
+                "WebCopier v4.6"
+            ]
+        },
+        {
+            "WebCopier 4.5.2": [
+                "WebCopier v4.5.2"
+            ]
+        },
+        {
+            "WebCopier 3.3": [
+                "WebCopier v3.3"
+            ]
+        },
+        {
+            "WebCopier 3.2a": [
+                "WebCopier v3.2a",
+                " WebCopier v3.2a"
+            ]
+        },
+        {
+            "WebCopier 3.2": [
+                "WebCopier v3.2"
+            ]
+        },
+        {
+            "WebCopier 3.0": [
+                "WebCopier v3.0"
+            ]
+        },
+        {
+            "WebCopier 2.8": [
+                "WebCopier v2.8"
+            ]
+        }
+    ],
+    "Web Downloader": [
+        {
+            "Web Downloader 6.9": [
+                "Web Downloader/6.9"
+            ]
+        },
+        {
+            "Web Downloader 6.8": [
+                "Web Downloader/6.8"
+            ]
+        },
+        {
+            "Web Downloader 5.7": [
+                "Web Downloader/5.7"
+            ]
+        },
+        {
+            "Web Downloader 4.5": [
+                "Web Downloader/4.5"
+            ]
+        }
+    ],
+    "Offline Explorer": [
+        {
+            "Offline Explorer 2.5": [
+                "Offline Explorer/2.5"
+            ]
+        },
+        {
+            "Offline Explorer 1.9": [
+                "Offline Explorer/1.9"
+            ]
+        },
+        {
+            "Offline Explorer 1.4": [
+                "Offline Explorer/1.4"
+            ]
+        }
+    ],
+    "Wget": [
+        {
+            "Wget 1.9cvs-stable": [
+                "Wget/1.9+cvs-stable (Red Hat modified)"
+            ]
+        },
+        {
+            "Wget 1.9.1": [
+                "Wget/1.9.1"
+            ]
+        },
+        {
+            "Wget 1.9": [
+                "Wget/1.9"
+            ]
+        },
+        {
+            "Wget 1.8.2": [
+                "Wget/1.8.2"
+            ]
+        },
+        {
+            "Wget 1.8.1": [
+                "Wget/1.8.1"
+            ]
+        },
+        {
+            "Wget 1.7": [
+                "Wget/1.7"
+            ]
+        },
+        {
+            "Wget 1.6": [
+                "Wget/1.6"
+            ]
+        },
+        {
+            "Wget 1.5.3": [
+                "Wget/1.5.3"
+            ]
+        },
+        {
+            "Wget 1.15": [
+                "Wget/1.15 (darwin13.0.2)"
+            ]
+        },
+        {
+            "Wget 1.11.4": [
+                "Wget/1.11.4 (Red Hat modified)"
+            ]
+        },
+        {
+            "Wget 1.11.1": [
+                "Wget/1.11.1 (Red Hat modified)"
+            ]
+        },
+        {
+            "Wget 1.10.2": [
+                "Wget/1.10.2 (Red Hat modified)",
+                "Wget/1.10.2"
+            ]
+        },
+        {
+            "Wget 1.10.1-beta1": [
+                "Wget/1.10.1-beta1"
+            ]
+        },
+        {
+            "Wget 1.10.1": [
+                "Wget/1.10.1 (Red Hat modified)",
+                "Wget/1.10.1"
+            ]
+        },
+        {
+            "Wget ": [
+                "wget"
+            ]
+        }
+    ],
+    "WebZIP": [
+        {
+            "WebZIP 3.5": [
+                "WebZIP/3.5 (http://www.spidersoft.com)"
+            ]
+        }
+    ]
 }

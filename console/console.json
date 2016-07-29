@@ -1,28 +1,63 @@
 {
-    "Wii": {
-        "Wii ": [
-            "wii libnup/1.0"
-        ]
-    },
-    "null": {
-        "null": []
-    },
-    "Playstation 3": {
-        "Playstation 3 1.00": [
-            "Mozilla/5.0 (PLAYSTATION 3; 1.00)",
-            "Mozilla/4.0 (PS3 (PlayStation 3); 1.00)",
-            "Mozilla/5.0 (PLAYSTATION 3; 1.0)"
-        ]
-    },
-    "Playstation Portable": {
-        "Playstation Portable 2.00": [
-            "PSP (PlayStation Portable); 2.00",
-            "Mozilla/4.0 (PSP (PlayStation Portable); 2.00)"
-        ]
-    },
-    "Bunjalloo": {
-        "Bunjalloo 0.7.6": [
-            "Bunjalloo/0.7.6(Nintendo DS;U;en)"
-        ]
-    }
+    "Bunjalloo": [
+        {
+            "Bunjalloo 0.7.6": [
+                "Bunjalloo/0.7.6(Nintendo DS;U;en)"
+            ]
+        }
+    ],
+    "Wii": [
+        {
+            "Wii ": [
+                "wii libnup/1.0"
+            ]
+        }
+    ],
+    "Playstation Portable": [
+        {
+            "Playstation Portable 2.00": [
+                "PSP (PlayStation Portable); 2.00",
+                "Mozilla/4.0 (PSP (PlayStation Portable); 2.00)"
+            ]
+        }
+    ],
+    "Playstation 3": [
+        {
+            "Playstation 3 3.55": [
+                "Mozilla/5.0 (PLAYSTATION 3; 3.55)"
+            ]
+        },
+        {
+            "Playstation 3 2.00": [
+                "Mozilla/5.0 (PLAYSTATION 3; 2.00)"
+            ]
+        },
+        {
+            "Playstation 3 1.90": [
+                "Mozilla/5.0 (PLAYSTATION 3; 1.90)"
+            ]
+        },
+        {
+            "Playstation 3 1.70": [
+                "Mozilla/5.0 (PLAYSTATION 3; 1.70)"
+            ]
+        },
+        {
+            "Playstation 3 1.5": [
+                "Mozilla/5.0 (PLAYSTATION 3; 1.5)"
+            ]
+        },
+        {
+            "Playstation 3 1.10": [
+                "Mozilla/5.0 (PLAYSTATION 3; 1.10)"
+            ]
+        },
+        {
+            "Playstation 3 1.00": [
+                "Mozilla/5.0 (PLAYSTATION 3; 1.00)",
+                "Mozilla/4.0 (PS3 (PlayStation 3); 1.00)",
+                "Mozilla/5.0 (PLAYSTATION 3; 1.0)"
+            ]
+        }
+    ]
 }

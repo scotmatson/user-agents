@@ -1,42 +1,103 @@
 {
-    "WDG_Validator": {
-        "WDG_Validator 1.6.2": [
-            "WDG_Validator/1.6.2"
-        ]
-    },
-    "P3P Validator": {
-        "P3P Validator ": [
-            "P3P Validator"
-        ]
-    },
-    "W3C_CSS_Validator_JFouffa": {
-        "W3C_CSS_Validator_JFouffa 2.0": [
-            "Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0"
-        ]
-    },
-    "W3C_Validator": {
-        "W3C_Validator 1.305.2.12": [
-            "W3C_Validator/1.305.2.12 libwww-perl/5.64"
-        ]
-    },
-    "HTMLParser": {
-        "HTMLParser 1.6": [
-            "HTMLParser/1.6"
-        ]
-    },
-    "CSSCheck": {
-        "CSSCheck 1.2.2": [
-            "CSSCheck/1.2.2"
-        ]
-    },
-    "Cynthia": {
-        "Cynthia 1.0": [
-            "Cynthia 1.0"
-        ]
-    },
-    "CSE HTML Validator": {
-        "CSE HTML Validator ": [
-            "CSE HTML Validator Lite Online (http://online.htmlvalidator.com/php/onlinevallite.php)"
-        ]
-    }
+    "W3C_Validator": [
+        {
+            "W3C_Validator 1.654": [
+                "W3C_Validator/1.654"
+            ]
+        },
+        {
+            "W3C_Validator 1.606": [
+                "W3C_Validator/1.606"
+            ]
+        },
+        {
+            "W3C_Validator 1.591": [
+                "W3C_Validator/1.591"
+            ]
+        },
+        {
+            "W3C_Validator 1.575": [
+                "W3C_Validator/1.575"
+            ]
+        },
+        {
+            "W3C_Validator 1.555": [
+                "W3C_Validator/1.555"
+            ]
+        },
+        {
+            "W3C_Validator 1.432.2.5": [
+                "W3C_Validator/1.432.2.5"
+            ]
+        },
+        {
+            "W3C_Validator 1.432.2.22": [
+                "W3C_Validator/1.432.2.22"
+            ]
+        },
+        {
+            "W3C_Validator 1.432.2.19": [
+                "W3C_Validator/1.432.2.19"
+            ]
+        },
+        {
+            "W3C_Validator 1.432.2.10": [
+                "W3C_Validator/1.432.2.10"
+            ]
+        },
+        {
+            "W3C_Validator 1.305.2.12": [
+                "W3C_Validator/1.305.2.12 libwww-perl/5.64"
+            ]
+        }
+    ],
+    "Cynthia": [
+        {
+            "Cynthia 1.0": [
+                "Cynthia 1.0"
+            ]
+        }
+    ],
+    "WDG_Validator": [
+        {
+            "WDG_Validator 1.6.2": [
+                "WDG_Validator/1.6.2"
+            ]
+        }
+    ],
+    "HTMLParser": [
+        {
+            "HTMLParser 1.6": [
+                "HTMLParser/1.6"
+            ]
+        }
+    ],
+    "P3P Validator": [
+        {
+            "P3P Validator ": [
+                "P3P Validator"
+            ]
+        }
+    ],
+    "CSE HTML Validator": [
+        {
+            "CSE HTML Validator ": [
+                "CSE HTML Validator Lite Online (http://online.htmlvalidator.com/php/onlinevallite.php)"
+            ]
+        }
+    ],
+    "W3C_CSS_Validator_JFouffa": [
+        {
+            "W3C_CSS_Validator_JFouffa 2.0": [
+                "Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0"
+            ]
+        }
+    ],
+    "CSSCheck": [
+        {
+            "CSSCheck 1.2.2": [
+                "CSSCheck/1.2.2"
+            ]
+        }
+    ]
 }
